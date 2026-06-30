@@ -1,6 +1,6 @@
 # Metro-Ticket-Generating-System-in-ServiceNow
 
-# 🚇 Metro Ticket Generating System using ServiceNow
+
 
 ## Overview
 
@@ -167,7 +167,6 @@ Upload the project package.
 3. Enter:
    - Source Station
    - Destination Station
-   - Journey Date
    - Passenger Count
 4. Submit the request.
 5. The system automatically:
@@ -347,7 +346,7 @@ This project is intended for educational purposes and ServiceNow implementation 
 
 # Author
 
-**Akhilesh**
+**Pragna**
 
 ---
 
@@ -363,4 +362,4 @@ Special thanks to the ServiceNow platform and its automation capabilities, which
 
 **Last Updated:** June 2026
 
-**Repository:** Metro-Ticket-Generating-System-in-ServiceNow
+**Repository:** [Metro-Ticket-Generating-System-in-ServiceNow](https://github.com/pragnamangi/Metro-Ticket-Generating-System-in-ServiceNow)
